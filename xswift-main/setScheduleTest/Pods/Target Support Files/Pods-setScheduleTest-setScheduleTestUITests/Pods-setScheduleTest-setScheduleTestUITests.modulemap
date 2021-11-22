@@ -1,0 +1,6 @@
+framework module Pods_setScheduleTest_setScheduleTestUITests {
+  umbrella header "Pods-setScheduleTest-setScheduleTestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
