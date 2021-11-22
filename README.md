@@ -4,12 +4,12 @@ A sample project demonstartes the Clean Architecture with MVVM and Repository pa
 
 Demonstration :
 
-All are reusable, modular and testable Codebase /Components including unit test
-Used Clean Architecture with MVVM, Repository Pattern and RxSwift. Also used Coordinator pattern for navigating one screen to another screen.
-Made modular, reusable and testable custom ApiClient
-Made modular, reusable and testable custom Downloader to load resources like- Image, Video, Files.
-Did Unit test and Mocking of all the core components of the project including ApiClient and ApiRequest
-Setup :
+All are reusable, modular and testable Codebase /Components including unit tests
+I used a clean architecture via Model View View Model (MVVM), Repository Pattern and RxSwift. I used the Coordinator pattern for navigating one screen to another screen.
+Created modular, reusable and testable custom ApiClient
+Created modular, reusable and testable custom Downloader to load resources like- Image, Video, Files.
+Implementation of unit testing and mocking of all the core components of the project including ApiClient and ApiRequest
+Setup Instructions to run the code :
 
 Install latest version of xcode
 Install cocoa pod (https://stackoverflow.com/questions/20755044/how-do-i-install-cocoapods)
